@@ -1,16 +1,50 @@
-### Hi there 👋
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile+!+!)](https://git.io/typing-svg)
+  
+</div>
+
+## About Me 👋
+Hey there! I'm Makrron, a passionate developer who loves cybersecurity, cryptography, blockchain and bitcoin. I'm constantly exploring new technologies and enjoying the journey of coding.
+
+## Featured Projects 🚀
+- [CrypyoBot](https://github.com/makrron/CryptoBot): Multifunction CryptoBot for Discord
+- [ScrapCoin](https://github.com/makrron/ScrapCoin): Bitcoin Price Scraper API: A Python-based REST API for querying real-time Bitcoin prices in fiat using web scraping from popular exchanges. Ensuring privacy and anonymity with TOR integration.
 
 <!--
-**makrron/makrron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## Open Source Contributions 🌟
+  - [Project A](link-to-project-A): Describe your contributions and the impact they made.
+  - [Project B](link-to-project-B): Share your experience collaborating with the community.
+-->
 
-Here are some ideas to get you started:
+## Favorite Tools and Technologies 💻
+- Languages: Python, C++, Java, HTML, CSS.
+- Frameworks: Flask, Selenium, Bootstrap. 
+- Tools: Pycharm, IntelliJ, Git, SQLite, Docker. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
+## Connect with Me 🔗
+You can find me on:
+- 
+-->
+
+## GitHub Stats 📈
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makrron&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makrron&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=makrron&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=makrron&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makrron&theme=dracula&utcOffset=8)
+
+
+<!--
+## Learning Goals and Future Projects 🌱
+- I'm currently exploring [Technology/Topic] and aiming to [Learning goal].
+- In the pipeline: [List of future project ideas]
+
+## Acknowledgments 👏
+Shoutout to [Mention collaborators or contributors] for their incredible support and contributions.
+
+## Open Source License 📄
+This repository is open-source and is available under the [License Name]. Feel free to contribute and use as you like!
 -->
