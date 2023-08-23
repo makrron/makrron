@@ -34,7 +34,7 @@ You can find me on:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makrron&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=makrron&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=makrron&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makrron&theme=dracula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makrron&theme=dracula&utcOffset=0)
 
 
 <!--
