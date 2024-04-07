@@ -8,7 +8,7 @@
 Hey there! I'm Makrron, a passionate developer who loves cybersecurity, cryptography, blockchain and bitcoin. I'm constantly exploring new technologies and enjoying the journey of coding.
 
 ## Featured Projects 🚀
-- [CrypyoBot](https://github.com/makrron/CryptoBot): Multifunction CryptoBot for Discord
+- [CryptoBot](https://github.com/makrron/CryptoBot): Multifunction CryptoBot for Discord
 - [ScrapCoin](https://github.com/makrron/ScrapCoin): Bitcoin Price Scraper API: A Python-based REST API for querying real-time Bitcoin prices in fiat using web scraping from popular exchanges. Ensuring privacy and anonymity with TOR integration.
 
 <!--
@@ -18,7 +18,8 @@ Hey there! I'm Makrron, a passionate developer who loves cybersecurity, cryptogr
 -->
 
 ## Favorite Tools and Technologies 💻
-- Languages: Python, C++, Java, HTML, CSS.
+- Languages: Python, C, C++, Java.
+- Web: HTML, CSS.
 - Frameworks: Flask, Selenium, Bootstrap. 
 - Tools: Pycharm, IntelliJ, Git, SQLite, Docker. 
 
