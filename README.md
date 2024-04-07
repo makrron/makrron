@@ -32,10 +32,9 @@ You can find me on:
 ## GitHub Stats 📈
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makrron&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makrron&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=makrron&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=makrron&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makrron&theme=dracula&utcOffset=0)
+![makrron's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makrron&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 
 <!--
