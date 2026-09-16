@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cybersecurity+%26+Cryptography;Bitcoin+%26+Blockchain+Dev;Python+%26+Go+Developer;Building+Decentralized+%26+Private+Tools&center=true&width=500&height=50&color=F7931A&vCenter=true&size=22)](https://git.io/typing-svg)
 
-🔒 **Cybersecurity & Cryptography Enthusiast** | ₿ **Bitcoin & Blockchain Developer** | 🐍 **Python, C/C++ & Go Developer**
+🔒 **Cybersecurity & Cryptography Enthusiast** | ₿ **Bitcoin & Blockchain** | 🐍 **Python, C/C++ & Go Developer**
 
 ---
 
