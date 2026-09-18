@@ -20,7 +20,7 @@
 
 I am a passionate developer focused on **Cybersecurity, Cryptography, Blockchain, and Bitcoin ecosystems**. I enjoy engineering privacy-focused APIs, low-level cryptographic tools, self-hosted applications, and automated bots.
 
-- 🔭 **Focus Areas**: Cryptographic protocol design (MPC, Kerberos), Bitcoin privacy (TOR integration), hardware wallet implementations, and self-hosted P2P clients.
+- 🔭 **Focus Areas**: Cryptography, Bitcoin privacy (TOR integration), hardware wallet implementations, and self-hosted P2P clients.
 - 🛠️ **Building & Maintaining**: [simple-torrent](https://github.com/makrron/simple-torrent), decentralized tools, Discord security & crypto bots, privacy-centric REST APIs.
 - 🌐 **Privacy & Decentralization**: Advocate for open-source, peer-to-peer technologies, and self-hosted node software (Umbrel).
 - 💬 **Ask me about**: Bitcoin, Multi-Party Computation (MPC), Torrent/P2P protocols, Python scripting, and network security.
